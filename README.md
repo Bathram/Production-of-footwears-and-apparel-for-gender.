@@ -1,6 +1,7 @@
 ![Screenshot (11)](https://github.com/Bathram/Production-of-footwears-and-apparel-for-gender./assets/134285275/a92395b1-a7eb-4802-9666-23cda736f666)
 # Production-of-footwears-and-apparel-for-gender.
 PRODUCTION OF FOOTWEARS AND APPARELS FOR GENDERS / IT SALES ANALYSIS DASHBOARD
+
 With the use of power BI, I built this excellent dashboard for sales analysis of Footwears and apparels for genders.
 To reduce the risks inherent in decision-making, I present to you ‘Data Visualization’ that will make Businesses make informed decision.
 These were achieved with the use of some power BI tools; stacked bar chart, slicer, card, stacked column chart and pie chart.
