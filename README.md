@@ -22,7 +22,7 @@ RETAILER
 The Imperatives of the producer to know how well their Retailer are performing;
 	Average Revenue by Retailer: Through stacked column chart, the businessman celebrate his progress and locate areas of improvement.
 	Average Operating profit By Retailer: The end point of every businessman is making profit and empowering you to allocate resources where necessary, this was exhibited through the  pie chart.
-
+Finally, this dashboard was created to give insight to the management of this company, to enable them make  decisions  with fact.
 
 
 
